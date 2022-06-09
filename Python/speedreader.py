@@ -22,3 +22,12 @@ def absolute_value(num):
 print(absolute_value(2))
 
 print(absolute_value(-4))
+
+# Python Module example
+
+def add(a, b):
+   """This program adds two
+   numbers and return the result"""
+
+   result = a + b
+   return result
