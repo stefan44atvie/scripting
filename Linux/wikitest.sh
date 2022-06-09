@@ -9,7 +9,7 @@ do
    if auswahl="AWS" 
    then 
         echo $aws
-    elseif auswahl="S3"
+    elif auswahl="S3"
         echo S3
     fi      
 done
