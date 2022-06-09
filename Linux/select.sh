@@ -13,7 +13,7 @@ echo "Amazon Simple Storage Service (Amazon S3) ist ein Objektspeicher-Service m
 EC2)
 echo "Amazon Elastic Compute Cloud (Amazon EC2) bietet die umfangreichste und tiefste Computing-Plattform mit über 500 Instances und einer Auswahl an neuesten Prozessoren, Speichern, Netzwerken, Betriebssystemen und Kaufmodellen, damit Sie die Anforderungen Ihres Workloads optimal erfüllen können. Wir sind der erste große Cloud-Anbieter, der Intel-, AMD- und Arm-Prozessoren unterstützt, die einzige Cloud mit On-Demand EC2-Mac-Instances und die einzige Cloud mit 400 Gbps Ethernet-Netzwerken. Wir bieten das beste Preis-Leistungs-Verhältnis für Machine Learning Training sowie die niedrigsten Kosten pro Inferenz-Instance in der Cloud. Auf AWS laufen mehr SAP-, High Performance Computing (HPC), ML- und Windows-Workloads als auf jeder anderen Cloud."
 ;;
-EC2 d)
+--d)
 echo "Die Ausgabe wurde in Datei gespeichert"
 ./select.sh>ec2.txt
 ;;
