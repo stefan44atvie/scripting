@@ -10,6 +10,7 @@ do
    then 
         echo $aws
     elif auswahl="S3"
+    then 
         echo S3
     fi      
 done
