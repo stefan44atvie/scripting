@@ -8,6 +8,5 @@ do
    if auswahl="AWS" 
    then 
         echo $aws
-    else
     fi      
 done
