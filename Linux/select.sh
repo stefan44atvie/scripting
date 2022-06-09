@@ -14,7 +14,7 @@ restart)
 echo restarting
 ;;
 *)
-echo I don\'t know
+echo "I don\'t know. please try help for more options"
 ;;
 
 esac
