@@ -6,5 +6,4 @@ def greet(name):
     """
     print("Hello, " + name + ". Good morning!")
 
->>> greet('Paul')
-Hello, Paul. Good morning!
+greet('Paul')
