@@ -11,8 +11,10 @@ restart)
 echo restarting
 ;;
 *)
-echo don\'t know
+echo I don\'t know
 ;;
+help)
+    echo Options: AWS, stop, restart
 esac
 
 #different options available
