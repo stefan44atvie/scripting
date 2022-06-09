@@ -5,3 +5,6 @@ def greet(name):
     a parameter
     """
     print("Hello, " + name + ". Good morning!")
+
+>>> greet('Paul')
+Hello, Paul. Good morning!
