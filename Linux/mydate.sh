@@ -3,3 +3,4 @@
 
 read -p "Geben Sie ihren Namen ein:" name
 echo "Hallo" $name, "heute ist der " && date
+echo "Mir"
