@@ -1,8 +1,8 @@
 #!/bin/bash
 # case example
 case $1 in
-start)
-echo starting
+AWS)
+echo AWS ist ein US-Unternehmen, tätig in der CloudComputing-Branche
 ;;
 stop)
 echo stoping
