@@ -2,7 +2,7 @@
 # case example
 case $1 in
 AWS)
-echo AWS ist ein US-Unternehmen, tätig in der CloudComputing-Branche
+echo AWS ist ein US-Unternehmen, tätig in der CloudComputing-Branche. In dieser ist die Amazon-Tochter sogar Weltmarktführer.
 ;;
 stop)
 echo stoping
@@ -14,3 +14,11 @@ echo restarting
 echo don\'t know
 ;;
 esac
+
+#different options available
+# AWS 
+# S3
+# CodeFactory
+#
+# usage: ./select.sh option
+# example: ./select.sh AWS
