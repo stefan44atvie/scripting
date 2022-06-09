@@ -15,7 +15,7 @@ echo "Amazon Elastic Compute Cloud (Amazon EC2) bietet die umfangreichste und ti
 ;;
 --d)
 echo "Die Ausgabe wurde in Datei gespeichert"
-./select.sh>ec2.txt
+./select.sh EC2>ec2.txt
 ;;
 *)
 echo "I don\'t know. please try --help for more options"
