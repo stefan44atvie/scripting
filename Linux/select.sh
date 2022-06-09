@@ -7,7 +7,7 @@ echo AWS ist ein US-Unternehmen, tätig in der CloudComputing-Branche. In dieser
 stop)
 echo stoping
 ;;
-help)
+--help)
     echo Options: AWS, stop, restart
 ;;
 restart)
