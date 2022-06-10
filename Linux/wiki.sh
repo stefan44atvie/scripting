@@ -1,5 +1,6 @@
 #!/bin/bash
 # case example
+clear
 echo "Diese App soll ein kleines Wiki darstellen. Für Optionen bitte die App mit der Option --help ausführen"
 case $1 in
 AWS)
