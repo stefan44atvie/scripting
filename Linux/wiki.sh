@@ -1,6 +1,6 @@
 #!/bin/bash
 # case example
-echo "Diese App soll ein kleines Wiki darstellen"
+echo "Diese App soll ein kleines Wiki darstellen. Für Optionen bitte ./wiki.sh --help ausführen"
 case $1 in
 AWS)
 echo "Amazon Web Services (AWS) ist ein US-amerikanischer Cloud-Computing-Anbieter, der 2006 als Tochterunternehmen des Online-Versandhändlers Amazon.com gegründet wurde. Zahlreiche populäre Dienste wie beispielsweise Dropbox, Netflix, Foursquare oder Reddit greifen auf die Dienste von Amazon Web Services zurück. 2017 stufte Gartner AWS als führenden internationalen Anbieter im Cloud Computing ein."
