@@ -38,4 +38,4 @@ esac
 #
 # usage: ./select.sh option
 # example: ./select.sh AWS
-# wanna try to enable more than one option
+# wanna try to enable more than one opt
